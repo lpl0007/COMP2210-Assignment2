@@ -21,3 +21,6 @@ This assignment focuses on implementing the methods of a class much like java.ut
 - You may not use sorting in any method, except for kmin and kmax. The penalty for violating this constraint will be a deduction of points up to 50% of the total points available on the assignment.
 
 - You do not have to use sorting in kmin and kmax, but doing so makes the solution more straightforward. If you choose to use sorting in these two methods, you must do so by calling the java.util.Collections.sort(List, Comparator) method. You must use the fully-qualified name (no importing Collections) and you are allowed at most two calls to this method - at most one in kmin and at most one in kmax. You are also allowed to use a call to java.util.Collections.reverse(List) in kmax.
+
+## Grade
+100/100
